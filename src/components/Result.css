@@ -1,0 +1,20 @@
+.info {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.3em;
+    
+   
+}
+.Result{
+    color: black;
+}
+p{
+    z-index: 1;
+}
+/* .day{
+background-color: #fab94394;
+}
+
+.nite{
+    background-color:lightyellow;
+} */

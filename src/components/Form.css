@@ -1,0 +1,44 @@
+.btn{
+    text-align: center;
+    padding: 10px 15px; 
+    margin: 15px;
+    border-radius: 7px;
+    border: 1px solid white;
+    color: white;
+    background-color: #21212d;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    z-index: 1;
+}
+
+.Form{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     float: center;
+     
+}
+
+.enter{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 15px; 
+    margin: 15px;
+    border: none;
+    border-bottom: 3px solid whitesmoke;
+    color: white;
+    font-weight: bold;
+    font-size: 1.3em;
+    background-color: transparent;
+    z-index: 1;
+}
+
+.btn:hover{
+    color: #21212d;
+    background-color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
